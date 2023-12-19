@@ -1,6 +1,6 @@
 {
     "mobileBottomRow": 36,
-    "widgetName": "Checkbox1",
+    "widgetName": "Accepted_Terms",
     "displayName": "Checkbox",
     "iconSVG": "/static/media/icon.7b004ee098ca948e952234e7baec6d11.svg",
     "searchTags": ["boolean"],

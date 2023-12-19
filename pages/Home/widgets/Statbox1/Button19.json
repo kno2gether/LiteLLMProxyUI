@@ -20,7 +20,7 @@
     "animateLoading": true,
     "parentColumnSpace": 25.84375,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 27.83694344163658,
+    "leftColumn": 27.836943441636578,
     "dynamicBindingPathList": [{"key": "borderRadius"}],
     "text": "Subscribe To Our Youtube",
     "isDisabled": false,

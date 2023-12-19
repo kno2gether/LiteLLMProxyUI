@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 22,
     "widgetName": "Button14",
-    "onClick": "{{closeModal('Modal4')}}",
+    "onClick": "{{closeModal('Contact_Us');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
@@ -17,6 +17,7 @@
     "hideCard": false,
     "mobileRightColumn": 47,
     "animateLoading": true,
+    "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 41.674418604651166,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},

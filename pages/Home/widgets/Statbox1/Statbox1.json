@@ -28,7 +28,7 @@
         "widgetName": "Canvas13",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 244.00000000000006,
+        "bottomRow": 244,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,
@@ -101,7 +101,6 @@
                         "alignment": "start"
                     }],
                     "isPermanent": true,
-                    "childTemplate": null,
                     "layoutType": "WIDGET_COLUMN",
                     "layoutStyle": {"alignSelf": "flex-end"},
                     "layoutId": "qhsrd3lzxy",
