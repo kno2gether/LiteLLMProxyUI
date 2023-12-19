@@ -1,0 +1,5 @@
+{
+	"email": "{{user_email.text}}",
+	"feedback": "{{Feedback_Input.text}}",
+	"promotioncheck": "{{Accepted_Terms.isChecked}}"
+}
