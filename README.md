@@ -1,11 +1,11 @@
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
+![](http://kno2gether.com/wp-content/uploads/2023/09/cropped-ideogram-4_clipdrop-background-removal_clipdrop-relight.png)
 
-This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
+This app is built using Appsmith by Kno2gether. This is a simple UI to manage LiteLLM Proxy configuration. This UI is designed to simplify and ease developer life to manage their AI API locally through LiteLLM through UI.
+More features are to be added, such as KEY MANAGEMENT, Budget Management. 
+
+PR is Welcome.
 
 ![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/images/integrations.png)
 
-### [Github](https://github.com/appsmithorg/appsmith) • [Docs](https://docs.appsmith.com/?utm_source=github&utm_medium=social&utm_content=appsmith_docs&utm_campaign=null&utm_term=appsmith_docs) • [Community](https://community.appsmith.com/) • [Tutorials](https://github.com/appsmithorg/appsmith/tree/update/readme#tutorials) • [Youtube](https://www.youtube.com/appsmith) • [Discord](https://discord.gg/rBTTVJp)
+• [Our Website](https://kno2gether.com)  • [Tutorials](https://www.youtube.com/channel/UCxgkN3luQgLQOd_L7tbOdhQ) • [Youtube]([https://www.youtube.com/appsmith](https://www.youtube.com/channel/UCxgkN3luQgLQOd_L7tbOdhQ))
 
-##### You can visit the application using the below link
-
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](http://localhost:8080/applications/6581a20cb2a9615a33217f6b/pages/6581a20cb2a9615a33217f6e) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](http://localhost:8080/applications/6581a20cb2a9615a33217f6b/pages/6581a20cb2a9615a33217f6e/edit)
