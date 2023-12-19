@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "topRow": 0,
-          "bottomRow": 3225.0468750000005,
+          "bottomRow": 3173.0468750000005,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
@@ -143,8 +143,8 @@
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "Input2.text",
-                "Input1.text"
+                "Input1.text",
+                "Input2.text"
               ],
               "timeoutInMillisecond": 10000
             },
@@ -154,8 +154,8 @@
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "Input2.text",
-                "Input1.text"
+                "Input1.text",
+                "Input2.text"
               ],
               "timeoutInMillisecond": 10000
             }
