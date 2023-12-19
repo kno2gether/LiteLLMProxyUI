@@ -11,8 +11,8 @@
         "popup",
         "notification"
     ],
-    "topRow": 121.43281250000001,
-    "bottomRow": 165.83281250000002,
+    "topRow": 169.83281249999996,
+    "bottomRow": 214.23281249999997,
     "parentRowSpace": 1,
     "type": "MODAL_WIDGET",
     "hideCard": false,
