@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "topRow": 0,
-          "bottomRow": 2741.046875000001,
+          "bottomRow": 3225.046875,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
@@ -73,6 +73,30 @@
               "children": [
                 {
                   "id": "jyxjka25a0",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "a3afdu9wx0",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "kbp5wj0inb",
+                  "align": "start"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "id": "id4hj453bu",
                   "align": "start"
                 }
               ]
