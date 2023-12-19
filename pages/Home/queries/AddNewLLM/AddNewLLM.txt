@@ -1,0 +1,15 @@
+{
+	"model_name": "{{ModelGroupValueInput.text}}",
+	 "litellm_params": {
+    "model": "{{TargetModelNameInput.text}}",
+    "api_base": "{{TargetAPIBaseInput.text}}",
+	  "api_key": "{{TargetAPIKeyInput.text}}",
+	  "rpm": "{{Add_Model_RPM_Value.text}}",
+	  "tpm": "{{Add_model_tpm_val.text}}"
+  },
+  "model_info": {
+    "input_cost_per_token": "{{inputcostvalue.text}}",
+    "output_cost_per_token": "{{outputcostvalue.text}}",
+    "max_tokens": "{{maxtokens.text}}"
+  }
+}
