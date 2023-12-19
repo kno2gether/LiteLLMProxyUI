@@ -15,7 +15,7 @@
     "hideCard": false,
     "mobileRightColumn": 62,
     "animateLoading": true,
-    "leftColumn": 62.46614739364889,
+    "leftColumn": 60.85116851168512,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
