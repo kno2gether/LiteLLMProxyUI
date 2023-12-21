@@ -56,11 +56,10 @@ Now your App is ready. Just Click Deploy.
 Provide LiteLLM Proxy URL and Optional UserKey and then you can use the UI to manade Models and routes of your LiteLLM Proxy using this simple UI.
 
 
-For more detailed Tutorial check out the video in our youtube Channel. 
-![](https://www.youtube.com/watch?v=-Wo025I-_I4)
+[For more detailed Tutorial check out the video in our youtube Channel. ](https://www.youtube.com/watch?v=-Wo025I-_I4)
 
 
 ![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/images/integrations.png)
 
-• [Our Website](https://kno2gether.com)  • [Tutorials](https://www.youtube.com/channel/UCxgkN3luQgLQOd_L7tbOdhQ) • [Youtube]([https://www.youtube.com/appsmith](https://www.youtube.com/channel/UCxgkN3luQgLQOd_L7tbOdhQ))
+• [Our Website](https://kno2gether.com)  • [Tutorials](https://www.youtube.com/watch?v=-Wo025I-_I4) • [Youtube]([https://www.youtube.com/channel/UCxgkN3luQgLQOd_L7tbOdhQ])
 
